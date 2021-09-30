@@ -1,0 +1,25 @@
+class CharAndStringTest 
+{
+	public static void main(String[] args) 
+	{
+		char firstName;
+		firstName = 'È«' ;
+		System.out.println(firstName);
+
+		String name;
+		name = "È«±æµ¿";
+		System.out.println(name);
+
+		//char lastName;
+		String lastName;
+		lastName = "µ¿";
+		System.out.println(lastName);
+/*
+C:\javaStudy\day0928>javac CharAndStringTest.java
+CharAndStringTest.java:14: error: incompatible types: String cannot be converted to char
+                lastName = "µ¿";
+                           ^
+1 error
+*/
+	}
+}

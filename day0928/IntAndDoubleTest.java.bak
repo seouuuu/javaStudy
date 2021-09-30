@@ -1,0 +1,13 @@
+class IntAndDoubleTest 
+{
+	public static void main(String[] args) 
+	{
+		int a= (double)5;
+		int b= (double)2;
+
+		double result;
+		result = a/b;
+		System.out.println("나누기 결과:" + result);
+
+	}
+}
