@@ -1,0 +1,7 @@
+깃 명령어
+
+C:\javaStudy>git add .
+
+C:\javaStudy>git commit -m "if문 연습1"
+
+C:\javaStudy>git push -u origin main
