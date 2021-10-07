@@ -38,10 +38,7 @@ class  MethodTest05
 			System.out.print("두번째 배열의 정수를 차례대로 입력하세요==>");
 			d[i] = sc.nextInt();
 		}
-
 		MyUtil util = new MyUtil();
 		util.printArray(c,d);
-
-
 	}
 }
