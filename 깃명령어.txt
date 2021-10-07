@@ -2,6 +2,6 @@
 
 C:\javaStudy>git add .
 
-C:\javaStudy>git commit -m "if문 연습1"
+C:\javaStudy>git commit -m "git 저장소 생성"
 
-C:\javaStudy>git push -u origin main
+C:\javaStudy>git push origin main
