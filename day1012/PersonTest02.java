@@ -1,0 +1,30 @@
+class Person
+{
+	private String name;
+	private int age;
+    public int getAge(){
+		return age;
+    }
+	public void setAge(int a){
+		age = a;
+	}
+	public void setName(String n){
+		name = n;
+	//return; »ý·«
+	}
+	public String getName(){
+		return name;
+	}
+}
+class PersonTest02
+{
+	public static void main(String[] args) 
+	{
+		Person p1;
+		p1 = new Person();
+		p1.setName("È«±æµ¿");
+		p1.setAge(20);
+		System.out.println(p1.getName());
+		System.out.println(p1.getAge());
+	}
+}

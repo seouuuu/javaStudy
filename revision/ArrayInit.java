@@ -18,6 +18,5 @@ class ArrayInit
 		printArray(arr);
 		init(arr);
 		printArray(arr);
-		
 	}
 }
