@@ -31,17 +31,6 @@ class Emp
 		this.name = name;
 		addr = "서울";
 	}
-	/*
-	public Emp(int sal, String addr){           //불가능
-		this.sal = sal;
-		this.addr = addr;
-		name = "홍길동";
-	}*/
-	public Emp(String name, String addr){   //가능
-		this.name = name;
-		this.addr = addr;
-		sal = 500;
-	}
 	
 }
 class ConstructorOverloading02

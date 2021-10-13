@@ -8,19 +8,19 @@ class Dog
 		this.name = name;
 	}
 	public String getName(){
-		return name;
+		return.name;
 	}
 	public void setBreed(String breed){
 		this.breed = breed;
 	}
 	public String getBreed(){
-		return breed;
+		return.breed;
 	}
 	public void setAge(int age){
 		this.age = age;
 	}
 	public int getAge(){
-		return age;
+		return.age;
 	}
 
 	public Dog(String name, int age){    //이름, 나이 초기화

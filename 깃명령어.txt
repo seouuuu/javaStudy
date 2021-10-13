@@ -5,3 +5,7 @@ C:\javaStudy>git add .
 C:\javaStudy>git commit -m "git 저장소 생성"
 
 C:\javaStudy>git push origin main
+
+
+안되면
+C:\javaStudy>git push origin +main
