@@ -33,7 +33,9 @@ class Human
 		System.out.println(h2);
 		System.out.println(h3);
 
-		
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
 	}
 }
 
@@ -60,9 +62,7 @@ class Student extends Human
 		Student s2 = new Student("미현",22,"경영");
 		Student s3 = new Student("용준",24,"경제");
 
-		System.out.println(s1);
-		System.out.println(s2);
-		System.out.println(s3);
+		
 	}
 
 }
