@@ -1,4 +1,0 @@
-insert.do=InsertBoard
-list.do =ListBoard
-update.do=UpdateBoard
-delete.do=DeleteBoard
